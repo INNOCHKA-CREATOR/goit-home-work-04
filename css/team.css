@@ -29,7 +29,6 @@
     gap: 8px;
 }
 .team-icons-list {
-    margin-top: 8px;
     display: flex;
     flex-direction: row;
     gap: 24px;
